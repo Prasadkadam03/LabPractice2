@@ -1,6 +1,8 @@
+import java.util.*;
+
 class First
   {
-    public static vois main(String Arg[])
+    public static void main(String Arg[])
     {
       system.out.println("Hellow Prasad....");
     }
