@@ -27,7 +27,7 @@ int main()
   int n = sizeof(array) / sizeof(array[0]);
   int result = binarySearch(array, x, 0, n - 1);
   if (result == -1)
-    printf("Not found");
+    cout<<"Not found"<<endl;
   else
-    printf("Element is found at index %d", result);
+    cout<<"Element is found at index << result <<endl;
 }
