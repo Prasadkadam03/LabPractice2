@@ -2,6 +2,6 @@
 
 int main()
 {
-  printf("Hellow Prasad");
+  printf("Hellow Prasad\n");
   return 0;
 }
