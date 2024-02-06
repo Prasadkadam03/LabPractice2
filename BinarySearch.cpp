@@ -29,5 +29,5 @@ int main()
   if (result == -1)
     cout<<"Not found"<<endl;
   else
-    cout<<"Element is found at index << result <<endl;
+    cout<<"Element is found at index "<< result <<endl;
 }
